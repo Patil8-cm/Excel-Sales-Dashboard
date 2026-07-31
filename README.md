@@ -24,6 +24,3 @@ This Excel Dashboard analyzes sales performance using Pivot Tables, Pivot Charts
 - Best Selling Product
 - Monthly Revenue Trends
 - Customer Analysis
-
-## Author
-Your Name
